@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ascerex
 
-<!--
-**ascerex/ascerex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ascerex is an aerospace technology and systems initiative focused on building advanced, scalable infastructure at the intersection of software, autonomous navigation, and transportation. 
 
-Here are some ideas to get you started:
+This repository serves as the primary public web presence and foundational codebase for Ascerex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Purpose
+
+The goals of this repository are to:
+
+- Host the Ascerex public website
+- Establish a clean, version-controlled development workflow
+- Provide a stable foundation for future expansion into additional systems and services
+
+This repository is intentionally minimal at the start and will evolve as the platform grows.
+
+
+## Roadmap
+
+- Initial public landing page
+- Mission and systems overview
+- Newsroom and updates
+- Contact and partnership channels
+- Expansion into additional Ascerex sub-projects
