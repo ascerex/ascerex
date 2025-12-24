@@ -155,7 +155,7 @@ a {
 .nav-mobile {
     display: none;
     flex-direction: column;
-    padding: 0 48px 32px;
+    padding: 0 48px;
     gap: 0;
     max-height: 0;
     overflow: hidden;
@@ -174,7 +174,7 @@ a {
 
 .nav-mobile.open {
     max-height: 500px;
-    padding-bottom: 32px;
+    padding: 0 48px 32px;
 }
 
 /* ============================================
